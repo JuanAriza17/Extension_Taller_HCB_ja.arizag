@@ -1,0 +1,124 @@
+h1 {
+  text-align: center;
+  font-family: century-gothic, sans-serif;
+  font-weight: bolder;
+  color: white;
+}
+h2 {
+  text-align: center;
+  font-family: century-gothic, sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+h6 {
+  text-align: center;
+}
+
+p {
+  font-family: century-gothic, sans-serif;
+  text-align: justify;
+  font-size: 20px;
+}
+
+li {
+  text-align: center;
+  font-family: century-gothic, sans-serif;
+  font-size: 20px;
+  font-style: italic;
+}
+img {
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  object-fit: cover;
+}
+
+#contenedorImagen {
+  height: auto;
+  width: auto;
+  background-color: darkolivegreen;
+  align-items: center;
+}
+
+#contenedor {
+  height: auto;
+  align-items: center;
+}
+#contenedor1 {
+  background-color: gray;
+}
+#contenedor1_5 {
+  background-color: lightgray;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+#contenedor2 {
+  background-color: darkgray;
+  display: flex;
+  align-items: center;
+}
+
+#contenedor3 {
+  background-color: black;
+  display: flex;
+  align-items: center;
+}
+
+#contenedorCanciones {
+  background-color: lightsalmon;
+}
+
+#contenedorExtra {
+  background-color: lightcyan;
+}
+
+#contenedorInfluencia {
+  background-color: chocolate;
+  align-items: center;
+  align-content: center;
+  vertical-align: center;
+}
+
+#contenedorAlbumes {
+  background-color: lightgreen;
+  align-content: center;
+}
+
+#miembro1 {
+  background-color: lightblue;
+  height: 150px;
+  display: flex;
+  align-items: center;
+}
+
+#miembro2 {
+  background-color: lightcoral;
+  height: 150px;
+  display: flex;
+  align-items: center;
+}
+
+#miembro3 {
+  background-color: lightpink;
+  height: 150px;
+  display: flex;
+  align-items: center;
+}
+
+#miembro4 {
+  background-color: lightyellow;
+  height: 150px;
+  display: flex;
+  align-items: center;
+}
+
+a[href="https://es.wikipedia.org/wiki/Imagine_Dragons"]
+{
+  color: crimson;
+  text-decoration: underline;
+}
